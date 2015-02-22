@@ -20,6 +20,7 @@ central limit theorem
     + how large does n have to be to satisfy clt?
         - comparing two distributions, checking for gaussianity
         - relation to t-distributions?
+    + connection with renormalization group
 
 resampling methods
 ------------------
