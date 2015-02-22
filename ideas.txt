@@ -1,0 +1,40 @@
+generating distributions
+------------------------
+    + there are probably canned routines for this but it would be 
+      interesting to do our own
+    + mma had interesting stuff about conditional probabilities..
+      There are actually TONS of interesting examples in mma docs.
+      It would be interesting to actually work through some of these.
+    + calculating moments of distributions
+    + study interesting distributions
+        - Poisson?
+        - others?`
+
+random matrices
+---------------
+
+central limit theorem
+---------------------
+    + sample non-gaussian distribution
+    + plot distribution of average
+    + how large does n have to be to satisfy clt?
+        - comparing two distributions, checking for gaussianity
+        - relation to t-distributions?
+
+resampling methods
+------------------
+    + jackknife
+    + bootstrap
+
+bayesian vs. frequentist methods
+--------------------------------
+    + how does fitting differ?
+    + how do priors work?
+
+simple fitting
+--------------
+    + what if errors are not gaussian?
+    + parameter estimation
+
+fat-tailed distributions
+-----------------------
